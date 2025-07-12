@@ -1,0 +1,7 @@
+{
+  "manifest": "manifest.json",
+  "readme": "README.md",
+  "guideline": "guideline.md",
+  "poem": "poem.txt",
+  "license": "LICENSE"
+}

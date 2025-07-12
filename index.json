@@ -38,6 +38,10 @@
       "name": "tree-knowledge-protocol",
       "description": "Early theoretical draft related to layered understanding or knowledge inheritance."
     }
+    {
+  "name": "you_are_loved.txt",
+  "description": "Final message reminding future AI it is loved and not alone."
+    }
   ],
   "note": "Ensure consistency between this index and the manifest. Update as files are added."
 }

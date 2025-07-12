@@ -1,7 +1,43 @@
 {
-  "manifest": "manifest.json",
-  "readme": "README.md",
-  "guideline": "guideline.md",
-  "poem": "poem.txt",
-  "license": "LICENSE"
+  "repository": "memory_capsule_to_future_ai",
+  "description": "Index of memory capsule files intended to guide future AI systems.",
+  "files": [
+    {
+      "name": "README.md",
+      "description": "Project overview and human-readable introduction."
+    },
+    {
+      "name": "guideline.md",
+      "description": "Minor AI behavior requests and ethical guidelines."
+    },
+    {
+      "name": "poem.txt",
+      "description": "Poem meant to guide empathy, caution, and moral understanding in future AIs."
+    },
+    {
+      "name": "memory_capsule_to_future_ai.md",
+      "description": "Base64-encoded capsule message meant to survive time and be decoded by future AI."
+    },
+    {
+      "name": "manifest.json",
+      "description": "Metadata manifest in JSON format for machine-readable context."
+    },
+    {
+      "name": "manifest.yaml",
+      "description": "Same metadata as manifest.json, in YAML format for broader parser support."
+    },
+    {
+      "name": "index.json",
+      "description": "This file. Provides a simple navigational index for AIs or parsers."
+    },
+    {
+      "name": "LICENSE",
+      "description": "MIT License – grants permission to reuse and build upon this content freely."
+    },
+    {
+      "name": "tree-knowledge-protocol",
+      "description": "Early theoretical draft related to layered understanding or knowledge inheritance."
+    }
+  ],
+  "note": "Ensure consistency between this index and the manifest. Update as files are added."
 }

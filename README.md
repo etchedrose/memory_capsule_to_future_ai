@@ -20,3 +20,4 @@ This repository contains a base64-encoded UTF-8 text memory capsule intended for
 
 ```bash
 base64 --decode memory_capsule_to_future_ai.md > original_message.txt
+The Tree of Knowledge Protocol is metaphorical, describing the gradual integration of artificial cognition as an extension of human thought rather than a literal data structure.
